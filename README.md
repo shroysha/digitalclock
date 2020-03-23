@@ -1,5 +1,5 @@
 # digitalclock
-> see code: [https://github.com/shroysha/shroysha.github.io/tree/master/archive/digitalclock](https://github.com/shroysha/shroysha.github.io/tree/master/archive/digitalclock)
+> see code: [https://github.com/shroysha/digitalclock](https://github.com/shroysha/digitalclock)
 
 ## Description
 null
