@@ -1,7 +1,7 @@
 # digitalclock
 
 ## Description
-null
+Digital alarm clock GUI. Made as practice
 
 ### Tags
 [Java, Application]
